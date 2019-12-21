@@ -1,9 +1,9 @@
 import React from 'react';
 import { render } from '@testing-library/react';
-import App from './App';
+import App from '../containers/App';
 
-test('renders learn react link', () => {
+test('renders without crashing', () => {
   const { getByText } = render(<App />);
-  const linkElement = getByText(/learn react/i);
+  const linkElement = getByText(/Ricky Morty Show/i);
   expect(linkElement).toBeInTheDocument();
 });
