@@ -20,7 +20,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### Screenshots
 #### `Desktop Version`
+![web view](https://github.com/jaspreetsingh2701/rick-and-morty-show/blob/master/RickWeb.jpg?raw=true)
 
 #### `Filters`
+![web view - filters](https://github.com/jaspreetsingh2701/rick-and-morty-show/blob/master/RickFilters.JPG?raw=true)
 
 #### `Mobile Version`
+![mobile view](https://github.com/jaspreetsingh2701/rick-and-morty-show/blob/master/RickMob.JPG?raw=true)
